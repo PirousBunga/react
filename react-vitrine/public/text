@@ -1,0 +1,5 @@
+Terminal
+
+1. npx create-react-app
+2. npm start : pour lancer notre application 
+3. npm i sass react-router-dom 
