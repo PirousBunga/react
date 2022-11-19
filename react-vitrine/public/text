@@ -3,3 +3,5 @@ Terminal
 1. npx create-react-app
 2. npm start : pour lancer notre application 
 3. npm i sass react-router-dom 
+4. site pour l'animation d'un élement : framer.com
+5. cubic-bezier.com pour la transition
